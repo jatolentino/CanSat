@@ -1,0 +1,12 @@
+27-30
+OBC INPUT/OUTPUT
+
+50-51
+
+Analog
+Gyro
+Acceerleromet
+
+I2Ciro
+Tmeperatre
+Pression
